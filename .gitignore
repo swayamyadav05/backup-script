@@ -1,0 +1,5 @@
+# Ignore backup files
+backups/*.tar.gz
+
+# Ignore temporary files
+*.zip
